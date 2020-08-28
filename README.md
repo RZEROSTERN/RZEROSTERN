@@ -5,8 +5,9 @@
 ![](https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Android-Java-informational?style=flat&logo=android&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Android-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=success)
-![](https://img.shields.io/badge/JS-Vue-informational?style=flat&logo=vuejs&logoColor=white&color=success)
-![](https://img.shields.io/badge/JS-Angular-informational?style=flat&logo=angular&logoColor=white&color=success)
+![](https://img.shields.io/badge/Frontend-Vue-informational?style=flat&logo=vue&logoColor=white&color=success)
+![](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=success)
+![](https://img.shields.io/badge/Hybrid%20Mobile-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=success)
 
 ### Github Stats
 [![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=rzerostern&theme=dracula)](https://github.com/rzerostern/github-readme-stats)
