@@ -2,7 +2,7 @@
 
 ## Github Stats
 [![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=rzerostern)](https://github.com/rzerostern/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzerostern)](https://github.com/rzerostern/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzerostern&layout=compact)](https://github.com/rzerostern/github-readme-stats)
 
 
 <!--
