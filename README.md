@@ -1,7 +1,8 @@
 ## :wave: Welcome to the roughnecks, STERNIE'S ROUGHNECKS !!!
 
-Hi! I'm **Marco Ramírez**, from Mexico City :flag_mx: and I :heart: programming, beer :beer: and videogames :video_game:.
+Hi! I'm **Marco Ramírez**, from Mexico City and I :heart: programming, beer :beer: and videogames :video_game:.
 
+### Currently working on...
 Right now I'm interested with mobile aplications in Android and/or Flutter. But that doesn't means those are my unique skills, having also skills with frontend and backend in web and a little bit of server configurations.
 
 ### Programming Languages
@@ -12,6 +13,9 @@ Right now I'm interested with mobile aplications in Android and/or Flutter. But 
 ![](https://img.shields.io/badge/Frontend-Vue-informational?style=flat&logo=vue&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Hybrid%20Mobile-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=success)
+
+### Tools
+![](https://img.shields.io/badge/IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=success)
 
 ### Github Stats
 [![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=rzerostern&theme=dracula)](https://github.com/rzerostern/github-readme-stats)
