@@ -1,4 +1,8 @@
+## :waving_hand: Welcome to the roughnecks, STERNIE'S ROUGHNECKS !!!
+
 Hi! I'm Marco Ramírez and I :heart: programming, beer :beer: and videogames :video_game:.
+
+Right now I'm interested with mobile aplications in Android and/or Flutter. But that doesn't means those are my unique skills, having also skills with frontend and backend in web and a little bit of server configurations.
 
 ### Programming Languages
 ![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&logoColor=white&color=success)
