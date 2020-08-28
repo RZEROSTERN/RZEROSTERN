@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Programming Languages
 ![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&logoColor=white&color=success)
-![](https://img.shields.io/badge/PHP-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=success)
+![](https://img.shields.io/badge/Backend-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Android-Java-informational?style=flat&logo=android&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Android-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=success)
