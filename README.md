@@ -1,4 +1,4 @@
-## Hi! I'm Marco Ramírez and I :heart: programming, beer :beer: and videogames :videogame:.
+Hi! I'm Marco Ramírez and I :heart: programming, beer :beer: and videogames :video_game:.
 
 ### Programming Languages
 ![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&logoColor=white&color=success)
