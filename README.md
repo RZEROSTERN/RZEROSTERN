@@ -1,11 +1,12 @@
 ### Hi there 👋
 ### Programming Languages
 ![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&logoColor=white&color=success)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Framework-Yii2-informational?style=flat&logo=yii&logoColor=white&color=informational)
+![](https://img.shields.io/badge/PHP Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Android-Java-informational?style=flat&logo=android&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Android-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=success)
+![](https://img.shields.io/badge/JS Framework-Vue-informational?style=flat&logo=vuejs&logoColor=white&color=success)
+![](https://img.shields.io/badge/JS Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=success)
 
 ### Github Stats
 [![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=rzerostern&theme=dracula)](https://github.com/rzerostern/github-readme-stats)
