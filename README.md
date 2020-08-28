@@ -1,4 +1,4 @@
-## :waving_hand: Welcome to the roughnecks, STERNIE'S ROUGHNECKS !!!
+## :wave: Welcome to the roughnecks, STERNIE'S ROUGHNECKS !!!
 
 Hi! I'm Marco Ramírez and I :heart: programming, beer :beer: and videogames :video_game:.
 
