@@ -1,6 +1,8 @@
 ### Hi there 👋
+### Programming Languages
+![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 
-## Github Stats
+### Github Stats
 [![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=rzerostern&theme=dracula)](https://github.com/rzerostern/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzerostern&layout=compact&theme=dracula)](https://github.com/rzerostern/github-readme-stats)
 
