@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## Github Stats
-[![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=rzerostern)](https://github.com/rzerostern/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzerostern&layout=compact)](https://github.com/rzerostern/github-readme-stats)
+[![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=rzerostern&theme=dracula)](https://github.com/rzerostern/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzerostern&layout=compact&theme=dracula)](https://github.com/rzerostern/github-readme-stats)
 
 
 <!--
