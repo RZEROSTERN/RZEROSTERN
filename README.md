@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Github Stats
+[![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=rzerostern)](https://github.com/rzerostern/github-readme-stats)
+
 <!--
 **RZEROSTERN/RZEROSTERN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
