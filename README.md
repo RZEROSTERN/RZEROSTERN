@@ -15,6 +15,7 @@ Right now I'm interested with mobile aplications in Android and/or Flutter. But 
 ![Java](https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=white&color=success)
 ![Android Java](https://img.shields.io/badge/Android-Java-informational?style=flat&logo=android&logoColor=white&color=success)
 ![Android Kotlin](https://img.shields.io/badge/Android-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=success)
+![C#](https://img.shields.io/badge/Videogames-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=success)
 ![HTML5](https://img.shields.io/badge/Frontend-HTML5-informational?style=flat&logo=html5&logoColor=white&color=success)
 ![CSS3](https://img.shields.io/badge/Frontend-CSS3-informational?style=flat&logo=css3&logoColor=white&color=success)
 ![jQuery](https://img.shields.io/badge/Frontend-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=success)
