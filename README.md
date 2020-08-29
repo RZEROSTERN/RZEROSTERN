@@ -48,4 +48,4 @@ Right now I'm interested with mobile aplications in Android and/or Flutter. But 
 
 ### Github Stats
 [![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=rzerostern&theme=dracula)](https://github.com/rzerostern/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzerostern&layout=compact&theme=dracula)](https://github.com/rzerostern/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzerostern&layout=compact&theme=dracula&show_icons=true)](https://github.com/rzerostern/github-readme-stats)
