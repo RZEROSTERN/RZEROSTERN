@@ -5,6 +5,11 @@ Hi! I'm **Marco Ramírez**, from Mexico City and I :heart: programming, beer :be
 ### Currently working on...
 Right now I'm interested with mobile aplications in Android and/or Flutter. But that doesn't means those are my unique skills, having also skills with frontend and backend in web and a little bit of server configurations.
 
+### Code Status
+<a href="https://codestats.net/users/rzerostern">
+  <img src='https://codestats-readme.wegfan.cn/history-graph/asfo?width=850&height=300&history_days=15&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"]' alt="RZEROSTERN's Code::Stats history graph" />
+</a>
+
 ### Programming Languages
 ![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=white&color=success)
