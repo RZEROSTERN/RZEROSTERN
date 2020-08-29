@@ -41,12 +41,18 @@ Right now I'm interested with mobile aplications in Android and/or Flutter. But 
 ![Adobe After Effects](http://img.shields.io/badge/Adobe%20After%20Effects-blueviolet?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/Adobe%20XD-e300b9?style=flat-square&logo=adobe-xd&logoColor=ffffff)
 ![Sketch](http://img.shields.io/badge/Sketch-yellow?style=flat-square&logo=sketch&logoColor=ffffff)
+![Aseprite](https://img.shields.io/badge/Aseprite-999999?style=flat-square&logo=mono-game&logoColor=white)
 
 ### OS
 ![Linux](https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=FCC624b&link)
 ![Windows](http://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Apple](https://img.shields.io/badge/MacOS-999999?style=flat-square&logo=Apple&logoColor=white)
 
-### Github Stats
+### Game Engines
+![Unity](https://img.shields.io/badge/Unity-999999?style=flat-square&logo=unity&logoColor=white)
+![MonoGame](https://img.shields.io/badge/MonoGame-999999?style=flat-square&logo=c-sharp&logoColor=white)
+![PhaserJS](https://img.shields.io/badge/PhaserJS-999999?style=flat-square&logo=javascript&logoColor=white)
+
+## Github Stats
 [![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=rzerostern&theme=dracula)](https://github.com/rzerostern/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzerostern&layout=compact&theme=dracula&show_icons=true)](https://github.com/rzerostern/github-readme-stats)
