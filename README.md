@@ -1,11 +1,13 @@
-## :wave: Welcome to the roughnecks, STERNIE'S ROUGHNECKS !!!
+# :wave: Welcome to the roughnecks, STERNIE'S ROUGHNECKS !!!
+
+## About me
 
 Hi! I'm **Marco Ramírez**, from Mexico City and I :heart: programming, beer :beer: and videogames :video_game:.
 
 ### Currently working on...
 Right now I'm interested with mobile aplications in Android and/or Flutter. But that doesn't means those are my unique skills, having also skills with frontend and backend in web and a little bit of server configurations.
 
-### Code Status
+#### Code Status
 <a href="https://codestats.net/users/rzerostern">
   <img src='https://codestats-readme.wegfan.cn/history-graph/rzerostern?width=850&height=300&history_days=15&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"]' alt="RZEROSTERN's Code::Stats history graph" />
 </a>
@@ -24,6 +26,7 @@ Right now I'm interested with mobile aplications in Android and/or Flutter. But 
 ![Flutter](https://img.shields.io/badge/Hybrid%20Mobile-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=success)
 
 ## My common tools
+
 ### Servers
 ![Apache](https://img.shields.io/badge/Apache-informational?style=flat&logo=apache&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-informational?style=flat&logo=nginx&logoColor=white)
