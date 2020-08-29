@@ -7,7 +7,7 @@ Right now I'm interested with mobile aplications in Android and/or Flutter. But 
 
 ### Code Status
 <a href="https://codestats.net/users/rzerostern">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/asfo?width=850&height=300&history_days=15&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"]' alt="RZEROSTERN's Code::Stats history graph" />
+  <img src='https://codestats-readme.wegfan.cn/history-graph/rzerostern?width=850&height=300&history_days=15&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"]' alt="RZEROSTERN's Code::Stats history graph" />
 </a>
 
 ### Programming Languages
