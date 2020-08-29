@@ -20,7 +20,7 @@ Right now I'm interested with mobile aplications in Android and/or Flutter. But 
 ![](https://img.shields.io/badge/Hybrid%20Mobile-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=success)
 
 ### Tools
-![](https://img.shields.io/badge/IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=success)
+![Adobe Photoshop](http://img.shields.io/badge/Adobe%20Photoshop-informational?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 ### Github Stats
 [![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=rzerostern&theme=dracula)](https://github.com/rzerostern/github-readme-stats)
