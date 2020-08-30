@@ -7,6 +7,10 @@ Hi! I'm **Marco Ramírez**, from Mexico City and I :heart: programming, beer :be
 ### Currently working on...
 Right now I'm interested with mobile aplications in Android and/or Flutter. But that doesn't means those are my unique skills, having also skills with frontend and backend in web and a little bit of server configurations.
 
+In my free times I dedicate to make streaming videos for Software Engineering 
+
+Also, in my free times (when I don't have neither job nor freelance projects), I make some videogames demos and prototypes hoping one of them could be the next hit in the videogames industry. My favorite programming languages in game development are C# and Javascript.
+
 #### Code Status
 <a href="https://codestats.net/users/rzerostern">
   <img src='https://codestats-readme.wegfan.cn/history-graph/rzerostern?width=850&height=300&history_days=15&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"]' alt="RZEROSTERN's Code::Stats history graph" />
