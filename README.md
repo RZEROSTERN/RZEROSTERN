@@ -16,18 +16,21 @@ Also, in my free times (when I don't have neither job nor freelance projects), I
   <img src='https://codestats-readme.wegfan.cn/history-graph/rzerostern?width=850&height=300&history_days=15&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"]' alt="RZEROSTERN's Code::Stats history graph" />
 </a>
 
-### Programming Languages
+### Programming Languages and Frameworks that I am specialized
 ![PHP](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&logoColor=white&color=success)
-![Java](https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=white&color=success)
 ![Android Java](https://img.shields.io/badge/Android-Java-informational?style=flat&logo=android&logoColor=white&color=success)
 ![Android Kotlin](https://img.shields.io/badge/Android-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=success)
+![Vue](https://img.shields.io/badge/Frontend-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=success)
+![Flutter](https://img.shields.io/badge/Hybrid%20Mobile-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=success)
+
+### I have notion of these languages and frameworks, but are not my speciality.
+![Swift](https://img.shields.io/badge/iOS-Swift-informational?style=flat&logo=swift&logoColor=white&color=orange)
+![Java](https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=openjdk&logoColor=white&color=blue)
 ![C#](https://img.shields.io/badge/Videogames-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=success)
+![Angular](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=success)
 ![HTML5](https://img.shields.io/badge/Frontend-HTML5-informational?style=flat&logo=html5&logoColor=white&color=success)
 ![CSS3](https://img.shields.io/badge/Frontend-CSS3-informational?style=flat&logo=css3&logoColor=white&color=success)
 ![jQuery](https://img.shields.io/badge/Frontend-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=success)
-![Vue](https://img.shields.io/badge/Frontend-Vue-informational?style=flat&logo=javascript&logoColor=white&color=success)
-![Angular](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=success)
-![Flutter](https://img.shields.io/badge/Hybrid%20Mobile-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=success)
 
 ## My common tools
 
@@ -48,6 +51,7 @@ Also, in my free times (when I don't have neither job nor freelance projects), I
 ![Adobe After Effects](http://img.shields.io/badge/Adobe%20After%20Effects-blueviolet?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/Adobe%20XD-e300b9?style=flat-square&logo=adobe-xd&logoColor=ffffff)
 ![Sketch](http://img.shields.io/badge/Sketch-yellow?style=flat-square&logo=sketch&logoColor=ffffff)
+![Figma](http://img.shields.io/badge/Figma-yellow?style=flat-square&logo=figma&logoColor=ffffff)
 ![Aseprite](https://img.shields.io/badge/Aseprite-999999?style=flat-square&logo=mono-game&logoColor=white)
 
 ### OS
