@@ -65,4 +65,4 @@ Also, in my free times (when I don't have neither job nor freelance projects), I
 ![PhaserJS](https://img.shields.io/badge/PhaserJS-999999?style=flat-square&logo=javascript&logoColor=white)
 
 ## Roadmap.sh
-[![roadmap.sh](https://roadmap.sh/card/tall/66b71af2b64402e0524852d0?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66b71af2b64402e0524852d0?variant=dark)](https://roadmap.sh)
