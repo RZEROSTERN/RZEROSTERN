@@ -64,6 +64,5 @@ Also, in my free times (when I don't have neither job nor freelance projects), I
 ![MonoGame](https://img.shields.io/badge/MonoGame-999999?style=flat-square&logo=c-sharp&logoColor=white)
 ![PhaserJS](https://img.shields.io/badge/PhaserJS-999999?style=flat-square&logo=javascript&logoColor=white)
 
-## Github Stats
-[![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=rzerostern&theme=dracula)](https://github.com/rzerostern/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzerostern&layout=compact&theme=dracula&show_icons=true)](https://github.com/rzerostern/github-readme-stats)
+## Roadmap.sh
+[![roadmap.sh](https://roadmap.sh/card/tall/66b71af2b64402e0524852d0?variant=dark)](https://roadmap.sh)
